@@ -1,4 +1,4 @@
-# Boo Spooky - Dark Lore Chronicles
+# <div align="center"> Boo Spooky
 
 <div align="center">
   <img src="https://res.cloudinary.com/dtm10i7bj/image/upload/v1750595354/att.3N3R-4nGLo446KuKdrs6C-UaeJQuaKYUNfB_iufQrnU_cvllpa.jpg" alt="Boo Spooky" width="300" style="border: 4px solid #dc2626; background: #1f2937;">
@@ -8,7 +8,7 @@
   
   [![Follow on Twitter](https://img.shields.io/badge/Follow-@boospooky_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/boospooky_)
   [![Read the Docs](https://img.shields.io/badge/Read-GitBook-orange?style=for-the-badge&logo=gitbook&logoColor=white)](https://boos-organization.gitbook.io/boo-spooky/)
-  [![Live Website](https://img.shields.io/badge/Visit-Website-dc2626?style=for-the-badge&logo=netlify&logoColor=white)](https://splendid-dasik-29a027.netlify.app)
+  [![Live Website](https://img.shields.io/badge/Visit-Website-dc2626?style=for-the-badge&logo=netlify&logoColor=white)](boospooky.fun)
 </div>
 
 ---
@@ -182,7 +182,7 @@ For technical issues, content feedback, or collaboration inquiries, please use t
   
   [![Follow on Twitter](https://img.shields.io/badge/Follow-@boospooky_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/boospooky_)
   [![Read the Docs](https://img.shields.io/badge/Read-GitBook-orange?style=for-the-badge&logo=gitbook&logoColor=white)](https://boos-organization.gitbook.io/boo-spooky/)
-  [![Live Website](https://img.shields.io/badge/Visit-Website-dc2626?style=for-the-badge&logo=netlify&logoColor=white)](https://splendid-dasik-29a027.netlify.app)
+  [![Live Website](https://img.shields.io/badge/Visit-Website-dc2626?style=for-the-badge&logo=netlify&logoColor=white)](boospooky.fun)
   
   <p><em>"Navigating modern life requires adaptability, humor, and acceptance of the unexpected."</em></p>
   <p><strong>— Project Philosophy</strong></p>
