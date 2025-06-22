@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Griffy:wght@400&display=swap');
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Griffy', serif;
+  background: #1f2937;
+  color: #d1d5db;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Griffy', serif;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: #000;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #dc2626;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #b91c1c;
+}
+
+/* Text selection */
+::selection {
+  background: #dc2626;
+  color: white;
+}
+
+/* Outline title effect */
+.outline-title {
+  color: transparent;
+  -webkit-text-stroke: 3px #dc2626;
+  text-stroke: 3px #dc2626;
+  text-shadow: 0 0 20px rgba(220, 38, 38, 0.5);
+}
+
+/* Header outline title effect */
+.outline-title-header {
+  color: transparent;
+  -webkit-text-stroke: 2px #dc2626;
+  text-stroke: 2px #dc2626;
+  text-shadow: 0 0 15px rgba(220, 38, 38, 0.4);
+}
+
+/* Outline icon effect */
+.outline-icon {
+  color: transparent;
+  stroke: #dc2626;
+  stroke-width: 2;
+  filter: drop-shadow(0 0 8px rgba(220, 38, 38, 0.3));
+}
