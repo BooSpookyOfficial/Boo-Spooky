@@ -8,7 +8,7 @@
   
   [![Follow on Twitter](https://img.shields.io/badge/Follow-@boospooky_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/boospooky_)
   [![Read the Docs](https://img.shields.io/badge/Read-GitBook-orange?style=for-the-badge&logo=gitbook&logoColor=white)](https://boos-organization.gitbook.io/boo-spooky/)
-  [![Live Website](https://img.shields.io/badge/Visit-Website-dc2626?style=for-the-badge&logo=netlify&logoColor=white)](boospooky.fun)
+  [![Live Website](https://img.shields.io/badge/Visit-Website-dc2626?style=for-the-badge&logo=netlify&logoColor=white)](https://boospooky.fun)
 </div>
 
 ---
